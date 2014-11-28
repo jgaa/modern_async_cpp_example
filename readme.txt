@@ -6,7 +6,7 @@ the same class three times. First, "traditional.cpp" using
 blocking IO. Then, in "async.cpp" I show how most people 
 would implement it today, using scattered methods and callbacks.
 And last in "modern.cpp", I show how elegantly it can be done 
-with recet versons of boost::asio, using coroutines in stead 
+with recent versons of boost::asio, using coroutines in stead 
 of callbacks. The code is async, but it looks just as simple as 
 traditional blocking code. As an extra bonus, the stack is 
 intact, so if your program crash, you will have much more 
