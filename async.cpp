@@ -16,7 +16,7 @@
  * using the same naive algorithm as in "traditional.cpp"
  *
  * Copyright 2014 by Jarle (jgaa) Aase <jarle@jgaa.com>
- * I put this code in the pubic domain.
+ * I put this code in the public domain.
  */
 
 #include <iostream>
@@ -207,7 +207,7 @@ private:
     }
 
     /* Initiate a async read operation to get a reply or part of it.
-     *
+     *i
      * This function returns immediately.
      */
     void FetchMoreData() {

@@ -10,7 +10,7 @@
  * for such a simple task.)\
  *
  * Copyright 2014 by Jarle (jgaa) Aase <jarle@jgaa.com>
- * I put this code in the pubic domain.
+ * I put this code in the public domain.
  */
 
 

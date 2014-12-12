@@ -20,6 +20,6 @@ directly to the standard output.
 
 The code is compiled with clang 3.5 and g++ 4.9.1
 
-I put this code in the pubic domain.
+I put this code in the public domain.
 
 Jarle (jgaa) Aase, December 2014.
