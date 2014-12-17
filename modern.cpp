@@ -38,9 +38,6 @@ public:
 
     /*! Async fetch a single HTTP page, at the root-level "/".
      *
-     * Since we gave the host parameter to the constructor, this method
-     * is now without arguments.
-     *
      * @param host The host we want to connect to
      *
      * @returns A future that will, at some later time, be able to provide
@@ -145,7 +142,7 @@ private:
 
                 /* Here we initiate an async write.
                  *
-                 * As before, the thread can be used for other things when
+                 * As before, the thread can be used for other things
                  * before processing resumes.
                  *
                  * Note the apparently missing error-handling.
